@@ -18,9 +18,7 @@ These cookies can be useful for developers working on:
 python tiktok_cookie_fetcher.py
 Example output:
 
-makefile
-Copy
-Edit
+```
 msToken: ZXY123abc...
 ttwid: 78uyQWert...
 📦 Requirements
