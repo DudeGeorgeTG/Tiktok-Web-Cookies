@@ -16,11 +16,12 @@ These cookies can be useful for developers working on:
 
 ```bash
 python tiktok_cookie_fetcher.py
+```
 Example output:
-
 ```
 msToken: ZXY123abc...
 ttwid: 78uyQWert...
+```
 📦 Requirements
 Python 3.x
 
